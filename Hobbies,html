@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My HTML Ouput</title>
+</head>
+<body>
+	<div style ="background-image:url('catback.jpg');background-repeat:no-repeat;
+            background-size:cover;"> <br>
+			<center> <h1><font color ="White" face = "Vladimir Script" size ="80"> Hobbies & Interests </h1></center></font><br>
+				<p><center><font color ="black" face= "Bradley Hand ITC" size="5"> </center></font>
+		<p>
+		<img src="biking2.gif" height="100" width="100" style="vertical-align:middle; margin:0px 200px"> Biking is my first love <br>
+		<img src="travel3.gif" height="100" width="100" style="vertical-align:middle; margin:0px 200px">I love travelling  for it allows me to be myself & see the world in different perspective <br> 
+		<img src="music2.gif" height="100" width="100" style="vertical-align:middle; margin:0px 200px"> Listening to music while driving<br>
+		<img src="car.gif" height="100" width="100" style="vertical-align:middle; margin:0px 200px"> Fascinated with cars<br>
+		<img src="catss.gif" height="100" width="100" style="vertical-align:middle; margin:0px 200px"> I maybe a cat in my past life, for now I have 14 cats<br>
+		<img src="road.gif" height="100" width="100" style="vertical-align:middle; margin:0px 200px"> Road trip and a long drive <br>
+		</p><br>
+		<hr>
+		<a href="mainPage.html"> BACK TO HOME PAGE</a>
+		
+	</div>
+	
+</body>
+</html>
